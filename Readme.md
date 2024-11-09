@@ -1,4 +1,4 @@
-# __**Pokemon GO Assets**__ __**:**__ __**Appraisals, Types, Pokemon and Tags**__
+# __**Pokemon GO Assets**__ __**:**__ __**Pokemon, Types, Tags and Appraisals**__
 
 
 **+** __**Repository Info**__
